@@ -1,0 +1,25 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+	width: 100%;
+	background-color: rebeccapurple;
+	padding: 3em;
+}
+
+header > h1 {
+	color: gold;
+	text-align: center;
+	font-size: 2em;
+}
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.5%;
+    border-radius: 15%;
+}
